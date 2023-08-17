@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @shubug1015
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Donghyun Lee
 
-<!---
-shubug1015/shubug1015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Experince.
+- [DND](https://www.dnd.ac/) 9기 FrontEnd Developer (2023.07-)
+- [아몽소프트웨어](https://among.software/) 협력 Frontend Developer (2021.03-2022.01)
+- Freelancer.Frontend Developer (2021.03-2022.01)
+
+
+### About.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubug1015)](https://github.com/anuraghazra/github-readme-stats)
