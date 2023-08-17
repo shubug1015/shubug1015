@@ -2,9 +2,9 @@
 
 
 ### Experince.
-- [DND](https://www.dnd.ac/) 9기 FrontEnd Developer (2023.07 - )
-- [아몽소프트웨어](https://among.software/) 협력 Frontend Developer (2022.01 - 2022.06)
-- Freelancer.Frontend Developer (2021.03 - 2022.01)
+- [DND](https://www.dnd.ac/) 9기 Front-end Developer (2023.07 - )
+- [아몽소프트웨어](https://among.software/) 협력 Front-end Developer (2022.01 - 2022.06)
+- Front-end Development [Freelancer](https://next-x.vercel.app/)  (2021.03 - 2022.01)
 
 
 ### About.
